@@ -1,0 +1,19 @@
+Adventure Works Sales Analysis – Tableau Dashboard
+
+📜 Description:
+This Tableau dashboard provides insightful visualizations of sales data for Adventure Works Cycles, a multinational bicycle manufacturing company. The dashboard enables stakeholders to analyze sales performance, customer trends, and product insights interactively, aiding in strategic decision-making.
+
+
+🔍 Overview:
+Adventure Works Cycles operates globally, manufacturing and selling bicycles across North America, Europe, and Asia. This Tableau dashboard is designed to evaluate key business metrics, such as total sales, profit, customer distribution, and production costs, to help optimize operations and boost revenue.
+
+Key Features of the Dashboard:
+✅ Total Sales & Profit Analysis – Summarized key business performance indicators.
+✅ Monthly Sales Trend – Identifies sales patterns over time.
+✅ Sales by Financial Quarter – Breaks down revenue by quarter for better forecasting.
+✅ Top Product Categories – Highlights best-selling bicycle categories.
+✅ Customer Segmentation – Ranks top customers by sales contribution.
+✅ Sales vs. Production Cost – Compares revenue with manufacturing expenses.
+✅ Regional Sales Breakdown – Displays sales distribution by country.
+
+🚀 Tools Used: Tableau, SQL, Excel
